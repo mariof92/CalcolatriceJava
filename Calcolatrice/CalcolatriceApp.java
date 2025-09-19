@@ -11,6 +11,7 @@ public class CalcolatriceApp {
         System.out.println("3 - Moltiplicazione");
         System.out.println("4 - Divisione");
         System.out.println("0 - Esci dal programma");
+        //uela
 
         System.out.println("Scegli un opzione");
         int scelta = scanner.nextInt();
